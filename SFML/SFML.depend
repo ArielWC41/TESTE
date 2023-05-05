@@ -782,7 +782,7 @@
 1683158822 c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\principal.h
 	<SFML/Graphics.hpp>
 
-1683239850 source:c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\jogador.cpp
+1683293511 source:c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\jogador.cpp
 	"Jogador.h"
 
 1683239148 c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\jogador.h
@@ -790,7 +790,7 @@
 	<SFML/Graphics.hpp>
 	"Ente.h"
 
-1683253297 source:c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\principal.cpp
+1683253615 source:c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\principal.cpp
 	"Principal.h"
 	"Inimigo.h"
 	<list>
@@ -805,7 +805,7 @@
 	<stdio.h>
 	<SFML/Graphics.hpp>
 
-1683252022 source:c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\inimigo.cpp
+1683293511 source:c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\inimigo.cpp
 	"Inimigo.h"
 
 1683239978 c:\users\ariel\onedrive\documentos\tec prog\teste sfml\sfml\inimigo.h

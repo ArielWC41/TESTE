@@ -40,13 +40,13 @@ void Principal::executar(){
                 window.close();
             else if (event.type == sf::Event::KeyPressed){
                 for(int i = 0; i < (int) vet_entes.size(); i++)
-                    pEnte->move();
+                    vet_entes[i]->move();
             }
         }
 
         window.clear();
         for(int i = 0; i < (int) vet_entes.size(); i++)
-            window.draw(pEnte->getCorpo());
+            window.draw(vet_entes[i]->getCorpo());
         window.display();
     }
 }

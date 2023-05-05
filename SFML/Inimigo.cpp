@@ -4,7 +4,7 @@
 
 Inimigo::Inimigo(float vel_x, float vel_y): vel(vel_x, vel_y){
     corpo.setFillColor(sf::Color::Red);
-    corpo.setPosition(0.0f, 0.0f);
+    corpo.setPosition(30.0f, 30.0f);
 
 }
 Inimigo::~Inimigo(){
